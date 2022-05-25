@@ -18,7 +18,7 @@ I am Gustavo Robles, I dedicate myself to learning and creating solutions to com
 
 ## Projectos / Projects
 
-* WebSite for Real Estate ( Webflow + Google Maps API )
+* Website for Real Estate ( Webflow + Google Maps API )
 * PDF Generator whit optimizations ( NodeJS + Pupetter + Ghostscript + Threads )
 * WhatsApp Bot ( NodeJS + Twilio + HubSpot + Docker + Traefik )
 * Dashboard of Data whit ETL ( Airbyte + HubSpot + Facebook Ads + Google BigQuery + SQL + Google Data Studio + Docker ) 
@@ -26,7 +26,8 @@ I am Gustavo Robles, I dedicate myself to learning and creating solutions to com
 * Parallel File Checker for Plagarism ( c++ )
 * P2P Sharing App ( C# ) 
 * Finite automata evaluator and visualization ( JS + Dynamic Programming ) 
-* Commenter facebook bot  ( NodeJS + Puppetter )
+* Facebook bot auto comments ( NodeJS + Puppetter )
+* Multiple Websites & Landing Pages ( HTML5 + CSS3 + JS )
 
 ## Aprendiendo / Learning
 
