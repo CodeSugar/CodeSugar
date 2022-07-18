@@ -1,6 +1,6 @@
 ## Hello! 
 
-Soy Gustavo Robles, me dedico aprender y crear soluciones a problemas comunes, con la epseranza de dejar el mundo un poquito mejor.
+Soy Gustavo Robles, me dedico aprender y crear soluciones a problemas comunes, con la esperanza de dejar el mundo un poquito mejor.
 
 I am Gustavo Robles, I dedicate myself to learning and creating solutions to common problems, with the hope of leaving the world a little better.
 
