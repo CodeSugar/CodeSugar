@@ -13,7 +13,7 @@ I am Gustavo Robles, I dedicate myself to learning and creating solutions to com
 * Product Development
 * Performance Analysis
 * Parallelism Programming 
-* Estrategic Research
+* Strategic Research
 * Evaluating Technology
 
 ## Projectos / Projects
