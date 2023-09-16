@@ -1,25 +1,32 @@
-## Hello! 
+> Experienced Full Stack Engineer passionate about problem-solving, data pipelines, web development, and automation. Dedicated to continuous learning and contributing to innovative solutions.
 
-Soy Gustavo Robles, me dedico aprender y crear soluciones a problemas comunes, con la esperanza de dejar el mundo un poquito mejor.
+I'm Gustavo, I dedicate myself to learning and creating solutions to common problems, with the hope of leaving the world a little better. Sometimes the simplest solution for a hard problem is the best.
 
-I am Gustavo Robles, I dedicate myself to learning and creating solutions to common problems, with the hope of leaving the world a little better.
+## What I love:
 
-## Me gusta / I like
+* Find multiple solutions to problems 
+* Learn new tools and ways to solve common challanges ( looking at you new js framework of the day )
+* Play competetive videogames ( is not necessary to win all the time to have fun )
+* Add knowledge about common life challanges ( finances, philosophy, psychology, productivity, hapiness )
 
-* Web Development
-* Automatizations
-* Security & Testing
-* User Experience Research
-* Product Development
-* Performance Analysis
-* Parallelism Programming 
-* Strategic Research
-* Evaluating Technology
+## What I do:
 
-## Projectos / Projects
+* Move data ( DevOps of Data Pipelines )
+* Fancy GUI ( Web Development )
+* Not repeat myself ( Automatizations )
+* Prepare for batttle ( Security, Backups, Testing )
+* See numbers looking knowledge ( Data minig )
+* Reduce time waiting ( Performance Analysis and Optimizations )
+* Make my pc hot ( Run IA Models and Parallel Programming )
+* Google with sparkles of LLM's ( Strategic Research )
+* Science in my home lab ( Evaluating Technology )
 
+## What I did:
+
+* DevOps of data pipelines ( Borg, BigQuery, Java, Google Cloud )
+* New feature helping data governance ( Java, BigQuery )
 * Website for Real Estate ( Webflow + Google Maps API )
-* PDF Generator whit optimizations ( NodeJS + Pupetter + Ghostscript + Threads )
+* PDF Generator with optimizations ( NodeJS + Pupetter + Ghostscript + Threads )
 * WhatsApp Bot ( NodeJS + Twilio + HubSpot + Docker + Traefik )
 * Dashboard of Data whit ETL ( Airbyte + HubSpot + Facebook Ads + Google BigQuery + SQL + Google Data Studio + Docker ) 
 * Remote control access ( Guacamole + AutoSSH + Caddy )
@@ -29,11 +36,14 @@ I am Gustavo Robles, I dedicate myself to learning and creating solutions to com
 * Facebook bot auto comments ( NodeJS + Puppetter )
 * Multiple Websites & Landing Pages ( HTML5 + CSS3 + JS )
 
-## Aprendiendo / Learning
+## What I'm learning
 
-* Product Development
-* React / Gatsby / NestJS / NextJS
-* Data Mining and Report Automatizations
+* Apache Beam
+* Kubernetes
+* IaaC
+* Prometheus/Grafana
+* LLM's LangChain
+
 
 <!--
 **CodeSugar/CodeSugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
