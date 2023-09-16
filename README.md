@@ -1,13 +1,13 @@
 > Experienced Full Stack Engineer passionate about problem-solving, data pipelines, web development, and automation. Dedicated to continuous learning and contributing to innovative solutions.
 
-I'm Gustavo, I dedicate myself to learning and creating solutions to common problems, with the hope of leaving the world a little better. Sometimes the simplest solution for a hard problem is the best.
+I dedicate myself to learning and creating solutions to common problems, with the hope of making the world a little better. Sometimes the simplest solution to a complex problem is the best.
 
 ## What I love:
 
-* Find multiple solutions to problems 
-* Learn new tools and ways to solve common challanges ( looking at you new js framework of the day )
-* Play competetive videogames ( is not necessary to win all the time to have fun )
-* Add knowledge about common life challanges ( finances, philosophy, psychology, productivity, hapiness )
+* Finding multiple solutions to problems
+* Learning new tools and approaches to solving common challenges (including the latest JavaScript framework of the day)
+* Playing competitive video games (it's not necessary to win all the time to have fun)
+* Adding knowledge about common life challenges (finances, philosophy, psychology, productivity, happiness)
 
 ## What I do:
 
@@ -30,9 +30,9 @@ I'm Gustavo, I dedicate myself to learning and creating solutions to common prob
 * WhatsApp Bot ( NodeJS + Twilio + HubSpot + Docker + Traefik )
 * Dashboard of Data whit ETL ( Airbyte + HubSpot + Facebook Ads + Google BigQuery + SQL + Google Data Studio + Docker ) 
 * Remote control access ( Guacamole + AutoSSH + Caddy )
-* Parallel File Checker for Plagarism ( c++ )
-* P2P Sharing App ( C# ) 
-* Finite automata evaluator and visualization ( JS + Dynamic Programming ) 
+* Parallel File Checker for Plagiarism (C++)
+* P2P Sharing App (C#)
+* Evaluating and visualizing finite automata (JS + Dynamic Programming)
 * Facebook bot auto comments ( NodeJS + Puppetter )
 * Multiple Websites & Landing Pages ( HTML5 + CSS3 + JS )
 
