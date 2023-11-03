@@ -14,11 +14,11 @@ I dedicate myself to learning and creating solutions to common problems, with th
 * Move data ( DevOps of Data Pipelines )
 * Fancy GUI ( Web Development )
 * Not repeat myself ( Automatizations )
-* Prepare for batttle ( Security, Backups, Testing )
-* See numbers looking knowledge ( Data minig )
+* Prepare for battle ( Security, Backups, Testing )
+* See numbers looking for knowledge ( Data mining )
 * Reduce time waiting ( Performance Analysis and Optimizations )
-* Make my pc hot ( Run IA Models and Parallel Programming )
-* Google with sparkles of LLM's ( Strategic Research )
+* Make my pc hot ( Run AI Models and Parallel Programming )
+* Google with sparkles of LLMss ( Strategic Research )
 * Science in my home lab ( Evaluating Technology )
 
 ## What I did:
@@ -26,14 +26,14 @@ I dedicate myself to learning and creating solutions to common problems, with th
 * DevOps of data pipelines ( Borg, BigQuery, Java, Google Cloud )
 * New feature helping data governance ( Java, BigQuery )
 * Website for Real Estate ( Webflow + Google Maps API )
-* PDF Generator with optimizations ( NodeJS + Pupetter + Ghostscript + Threads )
+* PDF Generator with optimizations ( NodeJS + Puppeteer + Ghostscript + Threads )
 * WhatsApp Bot ( NodeJS + Twilio + HubSpot + Docker + Traefik )
-* Dashboard of Data whit ETL ( Airbyte + HubSpot + Facebook Ads + Google BigQuery + SQL + Google Data Studio + Docker ) 
+* Dashboard of Data with ETL ( Airbyte + HubSpot + Facebook Ads + Google BigQuery + SQL + Google Data Studio + Docker ) 
 * Remote control access ( Guacamole + AutoSSH + Caddy )
 * Parallel File Checker for Plagiarism (C++)
 * P2P Sharing App (C#)
 * Evaluating and visualizing finite automata (JS + Dynamic Programming)
-* Facebook bot auto comments ( NodeJS + Puppetter )
+* Facebook bot auto comments ( NodeJS + Puppeteer )
 * Multiple Websites & Landing Pages ( HTML5 + CSS3 + JS )
 
 ## What I'm learning
@@ -43,6 +43,7 @@ I dedicate myself to learning and creating solutions to common problems, with th
 * IaaC
 * Prometheus/Grafana
 * LLM's LangChain
+* Rust + wasm
 
 
 <!--
