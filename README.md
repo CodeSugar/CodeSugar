@@ -11,19 +11,21 @@ I dedicate myself to learning and creating solutions to common problems, with th
 
 ## What I do:
 
-* Move data ( DevOps of Data Pipelines )
-* Fancy GUI ( Web Development )
+* Move data ( Data Pipelines )
+* Fancy GUI with good UX ( Web Development )
 * Not repeat myself ( Automatizations )
 * Prepare for battle ( Security, Backups, Testing )
 * See numbers looking for knowledge ( Data mining )
 * Reduce time waiting ( Performance Analysis and Optimizations )
 * Make my pc hot ( Run AI Models and Parallel Programming )
 * Google with sparkles of LLMss ( Strategic Research )
-* Science in my home lab ( Evaluating Technology )
+* Science in my home lab ( Learn, and learn, for now learning more about GitOps with Kubernetes and Flux )
+* Make my life easier ( DevOps )
 
 ## What I did:
 
-* DevOps of data pipelines ( Borg, BigQuery, Java, Google Cloud )
+* Data pipelines ( Kubernetes, BigQuery, Java, Google Cloud, Airbyte )
+* Daily support ( Linux, bash, Data Studio, SQL )
 * New feature helping data governance ( Java, BigQuery )
 * Website for Real Estate ( Webflow + Google Maps API )
 * PDF Generator with optimizations ( NodeJS + Puppeteer + Ghostscript + Threads )
@@ -38,10 +40,10 @@ I dedicate myself to learning and creating solutions to common problems, with th
 
 ## What I'm learning
 
-* Apache Beam
-* Kubernetes
-* IaaC
-* Prometheus/Grafana
+* Data Pipelines / Apache Beam / Apache Airflow
+* Orchestation of Containers / Kubernetes
+* Inmutable systems / TalosOS / Nix
+* Monitoring /  Prometheus / Grafana
 * LLM's LangChain
 * Rust + wasm
 
@@ -52,7 +54,7 @@ I dedicate myself to learning and creating solutions to common problems, with th
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
